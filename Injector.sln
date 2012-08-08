@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Injector", "Injector.vcproj", "{C8E12BB4-C1AE-40D8-940F-34E647D4133F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C8E12BB4-C1AE-40D8-940F-34E647D4133F}.Debug.ActiveCfg = Debug|Win32
+		{C8E12BB4-C1AE-40D8-940F-34E647D4133F}.Debug.Build.0 = Debug|Win32
+		{C8E12BB4-C1AE-40D8-940F-34E647D4133F}.Release.ActiveCfg = Release|Win32
+		{C8E12BB4-C1AE-40D8-940F-34E647D4133F}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
